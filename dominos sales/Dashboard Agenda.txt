@@ -1,0 +1,7 @@
+1)What is the total revenue generated from all pizza orders?
+2)What are the monthly sales trends for Domino’s pizzas?
+3)What is the distribution of orders across different hours of the day?
+4)What is the average order value per customer?
+5)What is the peak order time during the day?
+6)Which pizza category (e.g., Classic, Veggie, Supreme) generates the most revenue?
+7)Which size of pizza is ordered the most?
